@@ -1,11 +1,11 @@
-# VLC Puppet Module for Boxen
+# Apache Directory Studio Puppet Module for Boxen
 
 Requires the `boxen` puppet module.
 
 ## Usage
 
 ```puppet
-include vlc
+include apachedirectorystudio
 ```
 
 ## Developing
